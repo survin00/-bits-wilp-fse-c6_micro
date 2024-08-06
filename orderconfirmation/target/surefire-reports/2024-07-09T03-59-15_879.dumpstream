@@ -1,0 +1,5 @@
+# Created at 2024-07-09T03:59:16.691
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Vinay\WILP\C4 CLoudNative\Assignment2\orderconfirmation\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
